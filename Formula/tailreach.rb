@@ -3,8 +3,8 @@
 class Tailreach < Formula
   desc "Your Mac's screen in any browser on your Tailscale tailnet"
   homepage "https://github.com/TanmayDoesAI/tailreach"
-  url "https://github.com/TanmayDoesAI/tailreach/archive/refs/tags/v0.1.0.tar.gz"
-  sha256 "b1a639db2d1ec3193bceeffde2c6543d6bc4efe816a17ab0b4c0ab401d3c473f"
+  url "https://github.com/TanmayDoesAI/tailreach/archive/refs/tags/v0.1.1.tar.gz"
+  sha256 "b8db14a0f97c6722f9a6cd79686ba2466421a29af2eeba78453359b61dc22692"
   license "Apache-2.0"
   head "https://github.com/TanmayDoesAI/tailreach.git", branch: "main"
 
